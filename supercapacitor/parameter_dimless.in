@@ -1,0 +1,13 @@
+delta			=	2e+0
+beta			=	0.0
+alpha			=	0.5
+lambda			=	1e-2
+tplus			=	0.5
+eta				=	1e+0
+tf				=	1e-0
+porosity		=	0.5
+total timestep	=	20
+filter radius	=	1e-2
+filter scheme	=	mixed
+bd prop scheme	=	mixed
+mesh type		=	triangle
